@@ -1,0 +1,13 @@
+.staticposition{
+    border: 2px solid green;
+    top: 10px;
+}
+
+img{
+    width: 150px;
+    height: 100px;
+}
+
+img .staticposition{
+    position: static;
+}
